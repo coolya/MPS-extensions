@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to the MPS Extensions\n\n\nThe MPS Extension aim to provide a set of various useful extensions to MPS.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-the-mps-extensions",
+            "text": "The MPS Extension aim to provide a set of various useful extensions to MPS.",
+            "title": "Welcome to the MPS Extensions"
+        },
+        {
+            "location": "/getting-started/",
+            "text": "Getting Started",
+            "title": "Getting started"
+        },
+        {
+            "location": "/getting-started/#getting-started",
+            "text": "",
+            "title": "Getting Started"
+        },
+        {
+            "location": "/building/",
+            "text": "Building",
+            "title": "Building"
+        },
+        {
+            "location": "/building/#building",
+            "text": "",
+            "title": "Building"
+        },
+        {
+            "location": "/extensions/diagrams/",
+            "text": "",
+            "title": "Diagrams"
+        }
+    ]
+}
